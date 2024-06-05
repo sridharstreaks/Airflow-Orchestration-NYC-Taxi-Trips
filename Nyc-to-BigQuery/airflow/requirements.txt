@@ -1,0 +1,10 @@
+apache-airflow-providers-google
+psycopg2-binary
+pyarrow
+sqlalchemy
+fastparquet
+duckdb
+glob2
+pandas
+dbt-bigquery
+dbt-core
